@@ -54,4 +54,6 @@
     <string name="txtInfRelCustTot">Custo total da viagem:</string>
     <string name="txtInfRelCustPessoas">Custo total por pessoa:</string>
     <string name="btnSalvarViagem">Salvar Viagem</string>
+    <string name="txtInfNameTrip">Nome da viagem:</string>
+    <string name="txtMyTrip">Minhas Viagens</string>
 </resources>
